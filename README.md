@@ -23,11 +23,12 @@
 <h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="https://kimtahwn.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-333333?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-333333?style=for-the-badge&logo=tistory&logoColor=white" /> 
   </a>
+  <br>
   <a href="mailto:kimtahwn@naver.com">
     <img
-      src="https://img.shields.io/badge/kimtahwn@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/kimtahwn@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
 
